@@ -1,3 +1,4 @@
+```txt
 ➜ ./nekololis/readme.md ~ git:(master) ✗ sudo apt-get install neofetch -y && neofetch
 
  _      _____ _  __ ____  _     ____  _     _  ____    | NekoLolis@github
@@ -22,3 +23,4 @@
   I am mainly Lua and Python developer.
   
   Discord: 858579586572615731 (https://discord.id)
+```
