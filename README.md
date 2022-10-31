@@ -19,8 +19,8 @@
 
 ➜ ./nekololis/readme.md ~ git:(master) ✗ whoami
   Hi, I'm 17 years old and I'm a British developer.
-  I code since I was 12 years old by passion and I simply never stopped.
-  I am mainly Lua and Python developer.
+  I have coded since I was 12 years old by passion and I simply never stopped.
+  I am mainly a Lua and Python developer.
   
   Discord: 858579586572615731 (https://discord.id)
 ```
