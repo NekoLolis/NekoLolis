@@ -18,7 +18,7 @@
 1 directory, 4 files
 
 ➜ ./nekololis/readme.md ~ git:(master) ✗ whoami
-  Hi, I'm 17 years old and I'm a British developer.
+  Hi, I'm 18 years old and I'm a British developer.
   I have coded since I was 12 years old by passion and I simply never stopped.
   I am mainly a Lua and Python developer.
   
