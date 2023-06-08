@@ -23,4 +23,5 @@
   I am mainly a Lua and Python developer.
   
   Discord: 858579586572615731 (https://discord.id)
+  BuyMeACoffe: https://www.buymeacoffee.com/nekololis
 ```
