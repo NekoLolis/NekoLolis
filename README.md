@@ -5,12 +5,6 @@
 
 </div>
 
-<h2>Projects</h2>
-• UwUGuard (A Minecraft anticheat)<br />
-• Duwuels (A little core for a duels gamemode)<br />
-• UwUCore (A Minecraft plugin with various useful features and commands)<br />
-• A ton of other small/personal things, hence all the private repos and commits :p
-
 <h2>About me</h2>
 • Neko, she/her, 19<br />
 • UK, London<br />
