@@ -5,41 +5,38 @@
 
 </div>
 
-I’m the founder and CEO of **Kurom Softworks LTD**, where our mission is simple, **Security Done Right.**  
+# 👋 Hi, I’m [Your Name]  
 
-My journey in cybersecurity started with a curiosity about how systems break — and more importantly, how to make them stronger. Over the years, that curiosity turned into a career focused on:  
-- 🔐 Building **robust security solutions** that people can actually rely on  
-- 🧩 Designing frameworks that bridge **complex security** with **practical usability**  
-- 📈 Helping individuals and organizations raise their **security maturity** without the unnecessary jargon  
+### 🛡️ CEO & Founder of [Kurom Softworks LTD](https://kuromsoftworks.ltd)  
+**“Making competent security the norm.”**  
 
 ---
 
-I believe that:  
-- Competence should be the **default standard** in security  
-- Security should **empower**, not restrict  
-- True security comes from **clarity, adaptability, and trust**  
+## 🚀 About Me  
+I’m the CEO of **Kurom Softworks LTD**, where our mission is simple, **Security Done Right.**  
 
-For me, it’s not just about protecting systems, it’s about building confidence in a digital world.  
-
----
-
-## 🛠️ What You’ll Find Here 
-This GitHub is where I share what I’m working on and learning:  
-- ⚙️ Open-source projects in cybersecurity  
-- 🔍 Tools, and proof-of-concepts  
-- 📚 Resources that make security more accessible  
+My work focuses on:  
+- 🔐 Building **robust, reliable security solutions**  
+- 🧩 Making complex security **practical and usable**  
+- 📈 Helping organizations raise their **security maturity**  
 
 ---
 
-## 🌍 Let’s Connect  
+## 💡 Philosophy  
+- Competence should be the **default** in security  
+- Security should **empower, not restrict**  
+- Trust comes from **clarity and adaptability**  
+
+---
+
+## 🌍 Connect  
 - 🌐 [kuromsoftworks.ltd](https://kuromsoftworks.ltd)  
-- 🐦 Twitter/X: @kuromsoftworks
+- 🐦 Twitter/X: [@kuromsoftworks](https://x.com/kuromsoftworks)
 - 📫 Email: contact@kuromsoftworks.ltd
 
 ---
 
-✨ At the end of the day, my goal is simple:  
-To **make competent security the norm** — for everyone.  
+✨ My goal: to **make competent security the norm** for everyone.  
 
 <p align="center"><a href="https://discord.com/users/846532722091360287"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/846532722091360287?bg=302c33"></a></p>
 
