@@ -7,7 +7,9 @@
 **“Making competent security the norm.”**  
 
 </div>
+
 ---
+
 ## 🚀 About Me  
 I’m the CEO of **Kurom Softworks LTD**, where our mission is simple, **Security Done Right.**  
 
