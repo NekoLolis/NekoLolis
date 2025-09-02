@@ -14,7 +14,6 @@ My journey in cybersecurity started with a curiosity about how systems break —
 
 ---
 
-## 💡 What Drives Me  
 I believe that:  
 - Competence should be the **default standard** in security  
 - Security should **empower**, not restrict  
@@ -24,7 +23,7 @@ For me, it’s not just about protecting systems, it’s about building confiden
 
 ---
 
-## 🛠️ What You’ll Find Here  
+## 🛠️ What You’ll Find Here 
 This GitHub is where I share what I’m working on and learning:  
 - ⚙️ Open-source projects in cybersecurity  
 - 🔍 Tools, and proof-of-concepts  
