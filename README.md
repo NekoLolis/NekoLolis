@@ -3,10 +3,10 @@
 <img src="https://cdn.discordapp.com/emojis/774868681586114580.gif?v=1" /><br />
 <h1>hii, I'm Neko, also known as Kurom 👋</h1><br />
 
-</div>
-
 ### CEO & Founder of [Kurom Softworks LTD](https://kuromsoftworks.ltd)  
 **“Making competent security the norm.”**  
+
+</div>
 
 ---
 
