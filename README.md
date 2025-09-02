@@ -5,9 +5,7 @@
 
 </div>
 
-# 👋 Hi, I’m [Your Name]  
-
-### 🛡️ CEO & Founder of [Kurom Softworks LTD](https://kuromsoftworks.ltd)  
+### CEO & Founder of [Kurom Softworks LTD](https://kuromsoftworks.ltd)  
 **“Making competent security the norm.”**  
 
 ---
