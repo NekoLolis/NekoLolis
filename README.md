@@ -36,12 +36,4 @@ My work focuses on:
 
 ✨ My goal: to **make competent security the norm** for everyone.  
 
-<p align="center"><a href="https://discord.com/users/846532722091360287"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/846532722091360287?bg=302c33"></a></p>
-
-<br />
-
-<h2>Github stats for nerds</h2>
-<p align = center>
-  <br />
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=nekololis&theme=dracula">
-</p>
+<p align="center"><a href="https://discord.com/users/1341910714331299863"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/1341910714331299863?bg=302c33"></a></p>
